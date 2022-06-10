@@ -1,0 +1,12 @@
+Manifest-Version: 1.0
+Built-By: bbseb
+Build-Jdk: 17
+Class-Path: webthing-0.12.0.jar json-20180813.jar nanohttpd-2.3.1.jar na
+ nohttpd-nanolets-2.3.1.jar nanohttpd-websocket-2.3.1.jar jmdns-3.5.5.ja
+ r slf4j-api-1.7.25.jar org.everit.json.schema-1.11.1.jar commons-valida
+ tor-1.6.jar commons-digester-1.8.1.jar commons-logging-1.2.jar commons-
+ collections-3.2.2.jar commons-beanutils-1.9.3.jar handy-uri-templates-2
+ .1.6.jar joda-time-2.9.4.jar re2j-1.1.jar
+Main-Class: iot.webthing.SingleThing
+Created-By: Maven Integration for Eclipse
+
